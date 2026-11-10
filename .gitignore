@@ -1,0 +1,5 @@
+*.class
+.vscode/
+images/
+qr_codes/
+db.properties
