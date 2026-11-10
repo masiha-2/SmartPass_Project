@@ -3,3 +3,4 @@
 images/
 qr_codes/
 db.properties
+dao/db.properties
